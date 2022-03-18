@@ -12,5 +12,5 @@ Each project contains detailed README file that cointains an informative descrip
 ## Table of contents:
 | Datasets |
 | ---      |
-|(TMDB movies' ratings)[/01-TMDB-Movies-Dataset-Analysis]|
-|(Auto MPG )[/02-Auto-MPG-Dataset-Analysis]|
+|[TMDB movies' ratings](/01-TMDB-Dataset-Analysis)|
+|[Auto MPG](/02-Auto-MPG-Dataset-Analysis)|
