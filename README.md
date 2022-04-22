@@ -16,3 +16,4 @@ Each project contains detailed README file that cointains an informative descrip
 |02		|[Auto MPG](/02-Auto-MPG-Dataset-Analysis)							|
 |03		|[Medical Appointment No Show](/03-Medical-Appointment-No-Show)		|
 |04		|[9000+ Movies Dataset Analysis](/04-9000+-Movies-Dataset-Analysis)	|
+|05		|[Wine Quality Dataset EDA](/05-Wine-Quality-Dataset)				|
