@@ -46,7 +46,7 @@ The date table includes standard fields:
 We ended up with one fact table `Full 2021 Sales` and four diminsion tables pointing towards it with an active one to many relationship.
 a snapshot of the data model is provided below and can be found on `SSBC-Data-Model.png` on this repo.
 
-![SSBC Data Model](/SSBC-Data-Model.png)
+![SSBC Data Model](https://github.com/xShaimaa/Udacity-Data-Analysis-and-Viz-with-Microsoft-Power-BI/blob/master/01-Create-a-Data-Model-for-Seven-Sages-Brewing-Company/SSBC-Data-Model.png)
 
 
 ### Writing DAX Measures:
@@ -68,7 +68,7 @@ The second will simply summarize the percentages of gross profit and unit sales 
 Both tabs has a very brief executive summary at the bottom.
 Full PDF report can be found on `SSBC-Report` file provided on this repo.
 
-![SSBC Report Tab 1](/SSBC-Report-Tab1.jpg)
+![SSBC Report Tab 1](https://github.com/xShaimaa/Udacity-Data-Analysis-and-Viz-with-Microsoft-Power-BI/blob/master/01-Create-a-Data-Model-for-Seven-Sages-Brewing-Company/SSBC-Report-Tab1.jpg)
 
 
-![SSBC Report Tab 2](/SSBC-Report-Tab2.jpg)
+![SSBC Report Tab 2](https://github.com/xShaimaa/Udacity-Data-Analysis-and-Viz-with-Microsoft-Power-BI/blob/master/01-Create-a-Data-Model-for-Seven-Sages-Brewing-Company/SSBC-Report-Tab2.jpg)
