@@ -33,5 +33,6 @@ ___
 
 | Project No. | Project |
 | ---		  | ----    |
-| 01		  | [Build a Data Model for Seven Sages Brewing Company](/01-Create-a-Data-Model-for-Seven-Sages-Brewing-Company/) |
+| 01		  | [Build a Data Model for Seven Sages Brewing Company](/01-Create-a-Data-Model-for-Seven-Sages-Brewing-Company/) 	|
+| 02 		  | [Building a Power BI Report for Waggle](/02-Building-Power-BI-Report-for-Waggle/) 								|
 
