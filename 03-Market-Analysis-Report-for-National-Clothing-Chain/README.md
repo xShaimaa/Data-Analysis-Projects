@@ -67,8 +67,6 @@ bot provided on this repo. The corresponding visuals can be seen grouped below.
 
 ![avg-income-by-state](https://github.com/xShaimaa/Udacity-Data-Analysis-and-Viz-with-Microsoft-Power-BI/blob/master/03-Market-Analysis-Report-for-National-Clothing-Chain/img/avg-income-by-state.png)
 ___
-![customers-by-income](https://github.com/xShaimaa/Udacity-Data-Analysis-and-Viz-with-Microsoft-Power-BI/blob/master/03-Market-Analysis-Report-for-National-Clothing-Chain/img/customers-by-income.png)
-___
 ![predicted-income-by-state](https://github.com/xShaimaa/Udacity-Data-Analysis-and-Viz-with-Microsoft-Power-BI/blob/master/03-Market-Analysis-Report-for-National-Clothing-Chain/img/predicted-income-by-state.png)
 ___
 ![sales-income-corr](https://github.com/xShaimaa/Udacity-Data-Analysis-and-Viz-with-Microsoft-Power-BI/blob/master/03-Market-Analysis-Report-for-National-Clothing-Chain/img/sales-income-corr.png)
