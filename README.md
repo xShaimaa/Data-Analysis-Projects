@@ -1,54 +1,19 @@
-# **Query a Digital Music Store Database**
+# Data Analysis and EDA Projects
+This repo contains notebooks on various datasets as a practice on data analysis, all notebooks include:
 
-| Contents 											 	   	|
-| -------- 											 	   	|
-| [Project Description](#Project-Description)			   	|
-| [Database ERD](#Database-ERD) 		   					|
-| [Questions](#questions)									|
-| [Conclusion](#Conclusion)									|
-| [Built with](#Built-with)							   		|
+1. Data Cleaning.
+2. Data Visualization.
+3. Exploratory Data Analysis.
 
-## Project Description: 
-This project is part of Udacity's Data Analysis Nanodegree Program. In this project, we will query the Chinook Database, a digital music store, w
-e will be assisting the Chinook team with understanding the media in their store, their customers and employees, 
-and their invoice information. The schema for the Chinook Database is provided below. 
+Each project contains detailed README file that cointains an informative description of the dataset and its columns, summary of exploring the dataframe and step to be taken in data cleaning phase, visualizations findings and EDA conclusions.  
 
+---
 
-## Database ERD:
-![Chinook Music Store ERD](https://video.udacity-data.com/topher/2017/June/5956d5ee_screen-shot-2017-06-29-at-10.51.15-pm/screen-shot-2017-06-29-at-10.51.15-pm.png)
-
-
-## Questions:
-- Q1: Who is the top customer at Chinook?
-- Q2: Who is the best selling artist?
-- Q3: What is the most frequent genre in the database?
-- Q4: Who is the top rock artist in the database?
-
-
-## Conclusion
-These are derived conclusions after completing quering Chinook database.
-
-### Q1: Who is the top customer at Chinook?
-Helena Holy is our best customer who purchased to Chinook.
-![Top 5 Customers](./img/q1)
-
-### Q2: Who is the best selling artist?
-Iron Maiden is the best selling artist at Chinook. 
-![Top 5 Best Selling Artists](./img/q2)
-
-### Q3: What is the most frequent genre in the database?
-Rock appears to be the most frequent genre in Chinook database.
-![Most Frequent Genres](./img/q3)
-
-### Q4: Who is the top rock artist in the database?
-Led Zeppelin is the top rock artist to Chinook.
-![Top 10 Rock Artists](./img/q4)
-
-
-## Built with:		
-- DB Browser SQLlite	
-- Python3	   	
-- Pandas				
-- Matplotlib	
-- Seaborn
-- Google Slides		
+## Table of contents:
+| No. 	| Datasets 															|
+|---	| ---      															|
+|01		|[TMDB movies' ratings](/01-TMDB-Dataset-Analysis)					|
+|02		|[Auto MPG](/02-Auto-MPG-Dataset-Analysis)							|
+|03		|[Medical Appointment No Show](/03-Medical-Appointment-No-Show)		|
+|04		|[9000+ Movies Dataset Analysis](/04-9000+-Movies-Dataset-Analysis)	|
+|05		|[Wine Quality Dataset EDA](/05-Wine-Quality-Dataset)				|
