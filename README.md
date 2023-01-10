@@ -19,7 +19,7 @@ summary of exploring the dataframe and step to be taken in data cleaning phase, 
 |04		|[9000+ Movies Dataset Analysis](/04-9000+-Movies-Dataset-Analysis)												| Python 	|
 |05		|[Wine Quality Dataset EDA](/05-Wine-Quality-Dataset)															| Python 	|
 |06 	|[Query a Digital Music Store Database](/06-Query-a-Digital-Music-Store-Database) 								| SQL	 	|	
-| 07	|[Build a Data Model for Seven Sages Brewing Company](/01-Create-a-Data-Model-for-Seven-Sages-Brewing-Company/) | Power BI  |
-| 08  	|[Building a Power BI Report for Waggle](/02-Building-Power-BI-Report-for-Waggle/) 								| Power BI  |
-| 09 	|[Market Analysis Report for National Clothing Chain](/03-Market-Analysis-Report-for-National-Clothing-Chain/)	| Power BI  |
+| 07	|[Build a Data Model for Seven Sages Brewing Company](/07-Create-a-Data-Model-for-Seven-Sages-Brewing-Company/) | Power BI  |
+| 08  	|[Building a Power BI Report for Waggle](/08-Building-Power-BI-Report-for-Waggle/) 								| Power BI  |
+| 09 	|[Market Analysis Report for National Clothing Chain](/09-Market-Analysis-Report-for-National-Clothing-Chain/)	| Power BI  |
 					
