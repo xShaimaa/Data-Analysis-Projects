@@ -1,0 +1,18 @@
+PKCustomerID	Customer	CustType	City	State/Province	Country
+BC100	Saanich Pub	Bar	Victoria	British Columbia	Canada
+BC101	Toques and Blokes	Bar	Vancouver	British Columbia	Canada
+BC102	Queens Arms	Bar	Victoria	British Columbia	Canada
+BC103	McDougal's	Distributor	Vancouver	British Columbia	Canada
+BC105	The Black Bear	Bar	Victoria	British Columbia	Canarda
+BC109	Ale's What Cures You	Distributor	Victoria	British Columbia	Canada
+BC110	Barrel's Best	Distributor	Victoria	British Columbia	Canada
+BC111	Tequila Mockinbird	Bar	Surry	British Columbia	Canada
+WA001	Cash Purchase	SSBC Tsting Room	Redmond	Washington	United States
+WA003	Beergatory	Bar	Tacoma	Washington	United States
+WA004	Moe's 	Bar	Tacoma	Washington	United States
+WA005	The Killer Well	Barn	Seattle	Washington	United States
+WA006	Bacchus' Best	Distributor	Everett	Washington	United States
+WA007	Bike n' Brew	Bar	Everett	Washington	United States
+WA012	Puget's Finest	Bar	Seattle	Washington	United States
+WA014	Brew Ha Ha	Distributor	Tacoma	Washington	United States
+WA055	Rainier & Co.	Distributor	Seattle	Washington	United States
