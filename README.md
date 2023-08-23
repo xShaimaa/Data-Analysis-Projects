@@ -22,4 +22,5 @@ summary of exploring the dataframe and step to be taken in data cleaning phase, 
 | 07	|[Build a Data Model for Seven Sages Brewing Company](/07-Create-a-Data-Model-for-Seven-Sages-Brewing-Company/) | Power BI  |
 | 08  	|[Building a Power BI Report for Waggle](/08-Building-Power-BI-Report-for-Waggle/) 								| Power BI  |
 | 09 	|[Market Analysis Report for National Clothing Chain](/09-Market-Analysis-Report-for-National-Clothing-Chain/)	| Power BI  |
+| 10    |[Sales Analysis in Power BI: Clean and Analyze Sales Data Coursera Guided Project](/10-Coursera-Sales-Analysis-in-Power-BI-Guided-Project) | Power BI|
 					
